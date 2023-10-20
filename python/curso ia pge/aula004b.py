@@ -1,5 +1,5 @@
 import numpy as np, sys, os
-from sklearn.linear_model import LogisticRegression
+from sklearn.linear_model import LogisticRegression #pip install scikit-learn
 
 #Dados de treinamento
 idade_treinamento = np.array([30,25,35,40,40,50])                       #idade da pessoa
